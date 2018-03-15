@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+.idea
+/node_modules
+.DS_Store
+npm-debug.log*
+yarn-error.log
+yarn.lock
+package-lock.json
