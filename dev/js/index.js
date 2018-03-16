@@ -47,7 +47,8 @@ $(document).ready(function(){
                 });
                 appLogo.css({
                     'background': 'url(/assets/icons/logo_' + themeColorFlag + '.svg) no-repeat center',
-                    'background-size': '100% 100%'
+                    'background-size': '100% 100%',
+                    'margin-top': '-6px'
                 });
                 navText.css('color', '#666');
                 $('.g-nav').addClass('nav-' + themeColorFlag);

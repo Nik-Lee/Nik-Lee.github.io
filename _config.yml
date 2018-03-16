@@ -2,7 +2,7 @@
 title: '李文岩的Blog'
 description: '90后 前端开发者 重庆火锅爱好者 12年NBA老粉丝'
 keyword: '李文岩, 李文岩的Blog, 李文岩的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, reactjs'
-url: 'https://nikli2009.github.io' # your host
+# url: '' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
